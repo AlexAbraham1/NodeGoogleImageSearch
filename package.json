@@ -1,0 +1,24 @@
+{
+  "name": "google-image-search",
+  "description": "Very simple app which searches google images and displays first result",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlexAbraham1/NodeGoogleImageSearch",
+  "author": {
+    "name": "Alex Abraham",
+    "email": "alex@abraham.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AlexAbraham1/NodeGoogleImageSearch"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexAbraham1/NodeGoogleImageSearch/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "express": "~4.10.2"
+  },
+  "keywords": []
+}
